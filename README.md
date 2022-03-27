@@ -1,9 +1,5 @@
 ## Hi 👋 I am Tulashiram
-I am working as  Data Analyst Intern at Gamaka AI Solutions
- I am passionate about stuff like Data analytics,Data visualization,Machine Learning & Deep Learning. 
-Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflow. I am actively looking for opportunities in Data Science.
-
-- 👨🏽‍💻 Currently working, learning and growing my skillset in coding , Machine Learning,deep learning and Deployment.
+Post Graduated Supply Chain Professional with 5+ years experience in Supply chain Process Mapping, Inventory Management, Warehouse Management, Solution Design, Quality & Process Improvement. Always Passionate about collect and evaluate data, tracking and analyzing the KPIs, reporting the performances, Developing and deploying optimized supply chain projects and assuring quality standards. Having Diploma in Business and Data Analyst with Python, Machine Learning and BI Tools to leverage my interpersonal analytical skills.
 - 🤝 Open for job in  analytics,data science and python
 - 👨 Know more about me at [My Resume](add your google drive resume link here) 
 
